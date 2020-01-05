@@ -1,0 +1,27 @@
+baseURL = "http://pirmansyah/"
+languageCode = "en-us"
+title = "Pirmansyah"
+
+theme = "hugo-kiera"
+
+pygmentsCodeFences = true
+
+disqusShortname = "" #Disqus shortname
+googleAnalytics = "" #Google Analytics ID
+
+[author]
+    name = "pirmansyah"           #Author name
+    github = ""         #Github username
+    gitlab = ""         #Gitlab username
+    linkedin = ""       #LinkedIn username
+    facebook = ""       #Facebook username
+    twitter = ""        #Twitter username
+    instagram = ""      #Instagram username
+    stackoverflow = ""  #StackOverflow username
+
+[params]
+    tagline = "Web Developer"
+
+title = "Posts"
+menu = "main"
+weight = "10"
